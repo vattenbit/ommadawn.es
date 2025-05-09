@@ -187,8 +187,22 @@ HEADER STYLING
 	color: white;
 	padding: 0;
 	height: 3em;
+	position: relative; // Necesario para el pseudo-elemento
+
+	&::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.5); // Oscurece la imagen con un color negro semitransparente
+		z-index: 1; // Coloca la capa por encima de la imagen
+	}
 
 	.container {
+		position: relative; // Asegura que el contenido esté por encima de la capa oscura
+		z-index: 2;
 		padding: 0;
 		max-width: 100%;
 	}
