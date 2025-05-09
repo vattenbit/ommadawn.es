@@ -23,8 +23,8 @@ navigation:
       url: /index.html
     - title: Discografia
       url: /discografia
-    - title: Conciertos
-      url: /conciertos
+#    - title: Conciertos
+#      url: /conciertos
 
 #social:
 #    github: brianmaierjr
@@ -35,7 +35,7 @@ navigation:
 #    youtube: RickAstleyYT
 #    tumblr: i-am-a-fish
 
-google_analytics: "UA-58263416-1"
+google_analytics: "G-VW0D18SS0Y"
 
 disqus:
     shortname: brianmaierjr
