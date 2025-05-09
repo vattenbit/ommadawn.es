@@ -25,9 +25,10 @@ navigation:
       url: /micoleccion
     - title: Quien Soy
       url: /quien-soy
-    - title: Wiki
-      url: https://mikeoldfield.fandom.com/es
-      target: _blank
+    - title: Discografia
+      url: /discografia
+    - title: Otros Materiales
+      url: /otros-materiales
     - title: Links
       url: /links
 
