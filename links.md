@@ -16,7 +16,7 @@ title: Ommadawn - Links
         <div class="link-item">
             <a href="https://tubular.net" target="_blank">
                 Tubular.net
-                <img src="/assets/img/flags/gb.jpgssss" alt="English" class="flag" />
+                <img src="/assets/img/flags/gb.jpg" alt="English" class="flag" />
             </a>
             <p>Uno de los sitios en inglés más completos sobre Mike Oldfield.</p>
         </div>
