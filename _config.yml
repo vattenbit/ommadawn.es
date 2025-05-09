@@ -23,8 +23,6 @@ navigation:
       url: /index.html
     - title: Mi Colección
       url: /micoleccion
-    - title: Quien Soy
-      url: /quien-soy
     - title: Discografia
       url: /discografia
     - title: Otros Materiales
