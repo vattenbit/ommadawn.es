@@ -33,3 +33,33 @@
 }
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
+
+.album-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.album {
+    text-align: center;
+}
+
+.album img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.album img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.album p {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #333;
+}
