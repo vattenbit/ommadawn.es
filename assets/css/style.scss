@@ -43,6 +43,9 @@
 
 .album {
     text-align: center;
+    flex: 1 1 calc(25% - 20px); // Cada portada ocupa un cuarto del ancho menos el espacio del gap
+    max-width: calc(25% - 20px); // Limita el ancho máximo a un cuarto del contenedor
+    box-sizing: border-box; // Asegura que el padding y el border no afecten el ancho total
 }
 
 .album img {
