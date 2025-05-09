@@ -74,3 +74,36 @@
         max-width: 100%; // Limita el ancho máximo al 100%
     }
 }
+
+.links-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.link-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.link-item .flag {
+    width: 24px;
+    height: 16px;
+}
+
+.link-item a {
+    font-weight: bold;
+    color: #007acc;
+    text-decoration: none;
+}
+
+.link-item a:hover {
+    text-decoration: underline;
+}
+
+.link-item p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #555;
+}
