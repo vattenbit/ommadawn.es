@@ -21,10 +21,20 @@ paginate: 5
 navigation:
     - title: Blog
       url: /index.html
+    - title: Mi Colección
+      url: /micoleccion
+    - title: Quien Soy
+      url: /quien-soy
     - title: Discografia
-      url: /discografia
-#    - title: Conciertos
-#      url: /conciertos
+      url: /discografia/albumes
+    - title: Videografía
+      url: /videografia
+    - title: Libros
+      url: /libros
+    - title: Conciertos
+      url: /conciertos
+    - title: Links
+      url: /links
 
 #social:
 #    github: brianmaierjr
