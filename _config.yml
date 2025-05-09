@@ -25,16 +25,11 @@ navigation:
       url: /micoleccion
     - title: Quien Soy
       url: /quien-soy
-    - title: Discografia
-      url: /discografia/albumes
-    - title: Videografía
-      url: /videografia
-    - title: Libros
-      url: /libros
-    - title: Conciertos
-      url: /conciertos
+    - title: Wiki
+      url: www.wiki.ommadawn.es
     - title: Links
       url: /links
+
 
 #social:
 #    github: brianmaierjr
