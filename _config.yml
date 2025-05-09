@@ -19,21 +19,21 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Home
+    - title: Blog
       url: /index.html
-    - title: About
-      url: /about
-    - title: Contact
-      url: /contact
+    - title: Discografia
+      url: /discografia
+    - title: Conciertos
+      url: /conciertos
 
-social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+#social:
+#    github: brianmaierjr
+#    twitter: brianmaierjr
+#    facebook: brianmaierjr
+#    email: brimaidesigns@gmail.com
+#    linkedin: brianmaierjr
+#    youtube: RickAstleyYT
+#    tumblr: i-am-a-fish
 
 google_analytics: "UA-58263416-1"
 
